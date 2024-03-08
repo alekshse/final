@@ -1,0 +1,26 @@
+# Executable
+DB.out
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+Debug/
+Release/
+
+# VS Code directories
+.vscode/
+
+# Makefile generated files
+Makefile.in
+Makefile.out
+
+# Backup files
+*~
+
+# Other files you might want to ignore
+.DS_Store
